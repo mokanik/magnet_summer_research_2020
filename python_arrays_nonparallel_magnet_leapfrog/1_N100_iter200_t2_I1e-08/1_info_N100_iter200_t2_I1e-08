@@ -1,0 +1,28 @@
+simulation run on Mon Sep 28 17:44:28 2020
+simulation took 65.29 s
+
+physical parameters:
+reduce_g = 0.2
+g = 1.9620000000000002
+a = 0.05
+H = 0.5
+h = 0.01
+sigma = 59200000.0
+mu = 1.2566370614359173e-06
+m = 2
+M = 0.003
+I = 1e-08
+
+simulation parameters:
+m = 2
+max_iter = 200
+dt = 0.01
+init_height = -0.0
+init_displ = 0.0
+init_angle = 0.1
+N = 100
+dH = 0.005
+R = 0.00010613488694560112
+folder = python_arrays_nonparallel_magnet_leapfrog
+seed = 1
+
